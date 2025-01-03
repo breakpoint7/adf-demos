@@ -1,0 +1,12 @@
+name: MAIN Branch Trigger
+on:
+  push:
+    branches:
+    - main
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Print message
+      run: echo "Main branch was modified"
