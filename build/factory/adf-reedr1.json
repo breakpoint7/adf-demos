@@ -1,9 +1,0 @@
-{
-	"name": "adf-reedr1",
-	"location": "eastus",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "408bdec0-aeb2-4995-a883-cbdd43f982c3",
-		"tenantId": "f245c6ac-fd45-45d3-bc6d-d1f77745af08"
-	}
-}
