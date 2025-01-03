@@ -4,9 +4,6 @@
 	"parameters": {
 		"factoryName": {
 			"value": "adf-reedr1"
-		},
-		"AzureBlobStorage1_connectionString": {
-			"value": ""
 		}
 	}
 }
